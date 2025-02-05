@@ -1,0 +1,5 @@
+/node_modules
+/postgres/node_modules
+/sqlite/node_modules
+
+.env/*
