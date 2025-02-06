@@ -14,6 +14,10 @@
 
 
 # Steps
+- ##Instalation
+  - ```bash
+    npm install drizzle-orm better-sqlite3 sqlite
+    npm install -D drizzle-kit
 - ## Configure
     - `drizzle.config.ts`
     ```js
